@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLiteApp</string>
+    <string name="hint_name">Ingrese nombre</string>
+    <string name="hint_email">Ingrese mail</string>
+    <string name="btn_submit">SUBMIT</string>
+    <string name="btn_show">MOSTRAR</string>
+    <string name="btn_edit">EDITAR</string>
+    <string name="btn_delete">BORRAR</string>
+    <string name="data_textview">Datos de la base de datos.</string>
+</resources>
